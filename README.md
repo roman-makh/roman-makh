@@ -38,6 +38,14 @@ I focus on automated REST API testing using Python, pytest, and requests, alongs
 
 ---
 
+### 🤖 AI Tools & Agents
+
+**Skills:** AI agent configuration and practical use
+
+**Tools:** ChatGPT, OpenAI Codex
+
+---
+
 ### 🎯 Currently Focused On
 
 - Writing maintainable API automated tests
